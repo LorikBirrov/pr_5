@@ -137,7 +137,8 @@
 	font-family:Arial, sans-serif;font-size:14px;
   	overflow:hidden;padding:10px 5px;word-break:normal;
 }
-.tg th{border-color:black;
+.tg th{
+    border-color:black;
 	border-style:solid;
 	border-width:1px;
 	font-family:Arial, sans-serif;
@@ -146,7 +147,8 @@
   	overflow:hidden;
   	padding:10px 5px;word-break:normal;
  }
-.tg .tg-k2o1{background-color:#656565;
+.tg .tg-k2o1{
+    background-color:#656565;
 	border-color:#f56b00;color:#ffffff;
 	text-align:center;vertical-align:top
 }
@@ -157,4 +159,39 @@
 .tg .tg-1oh2{border-color:#f56b00;
 	text-align:right;
 	vertical-align:top
+}
+
+#draw {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+.container button {
+   padding: 5px 12px;
+   background-color: #551BD8;
+   color: #FAFAFA;
+   border-radius: 20px;
+   border: none;
+   text-decoration: none;
+}
+
+.container button:hover {
+   background-color: #37128C;
+}
+
+#clear_btn {
+	width: 80px;
+	height: 25px;
+}
+
+.button-slider {
+   color: black;
+   background-color: orange;
+   border: 0;
+   border-radius: 5px;
+   padding: 10px 10px;
+   margin: 20px;
+   font-size: larger;
 }
