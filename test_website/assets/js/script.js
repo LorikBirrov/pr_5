@@ -16,7 +16,7 @@ function Slide(title, subtitle, background, link ) {
 
 var slide1 = new Slide(
    "Deer",
-   "love me",
+   "LoVer",
    "public/images/photo1.jpg",
    "https://i.pinimg.com/236x/2a/46/0a/2a460a6d830bf2607508bb7e7f83a8b9.jpg"
 );
@@ -24,7 +24,7 @@ var slide1 = new Slide(
 
 var slide2 = new Slide(
    "Deer",
-   "love us",
+   "LoVers",
    "public/images/photo2.jpg",
    "https://i.pinimg.com/564x/d1/71/9c/d1719c48340f912299b2c9991f351e92.jpg"
 );
@@ -32,14 +32,14 @@ var slide2 = new Slide(
 
 var slide3 = new Slide(
    "Deer",
-   "Dominante",
+   "LoVer",
    "public/images/photo3.jpg",
    "https://i.pinimg.com/564x/85/50/4e/85504e8baf2c3a265a847d0dc3d93c73.jpg"
 );
 
 var slide4 = new Slide(
    "Deer",
-   "Love igoist",
+   "LoVer",
    "public/images/photo4.jpg",
    "https://i.pinimg.com/564x/24/21/e6/2421e603133e933b72a498a49c947efa.jpg"
 );
